@@ -2,6 +2,8 @@
 
 一个交互式的 Tailwind CSS/Vue3/ElementPlus 学习平台。
 
+![Tailwind Mastery](./images/image.png)
+
 ## 功能特性
 
 - **多框架支持**: Tailwind CSS (v3/v4)、Vue3、ElementPlus
