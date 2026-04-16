@@ -2,6 +2,8 @@
 
 一个交互式的 Tailwind CSS/Vue3/ElementPlus 学习平台。
 
+**在线访问**: https://1093148685.github.io/tailwind-mastery-v2/
+
 ![Tailwind Mastery](./images/image.png)
 
 ## 功能特性
